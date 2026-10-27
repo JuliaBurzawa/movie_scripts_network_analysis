@@ -1,0 +1,994 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="BONNIE HOPPS">
+      <data key="d0">BONNIE HOPPS</data>
+    </node>
+    <node id="STU HOPPS">
+      <data key="d0">STU HOPPS</data>
+    </node>
+    <node id="YOUNG JUDY">
+      <data key="d0">YOUNG JUDY</data>
+    </node>
+    <node id="GIDEON GREY">
+      <data key="d0">GIDEON GREY</data>
+    </node>
+    <node id="TRAVIS THE WOLF HENCHMAN KID">
+      <data key="d0">TRAVIS THE WOLF HENCHMAN KID</data>
+    </node>
+    <node id="GARETH THE DOUBTING SHEEP BOY">
+      <data key="d0">GARETH THE DOUBTING SHEEP BOY</data>
+    </node>
+    <node id="SHARLA">
+      <data key="d0">SHARLA</data>
+    </node>
+    <node id="MAJOR FRIEDKIN">
+      <data key="d0">MAJOR FRIEDKIN</data>
+    </node>
+    <node id="BELLWETHER">
+      <data key="d0">BELLWETHER</data>
+    </node>
+    <node id="JUDY">
+      <data key="d0">JUDY</data>
+    </node>
+    <node id="LIONHEART">
+      <data key="d0">LIONHEART</data>
+    </node>
+    <node id="COTTON">
+      <data key="d0">COTTON</data>
+    </node>
+    <node id="CROWD OF BUNNIES">
+      <data key="d0">CROWD OF BUNNIES</data>
+    </node>
+    <node id="TRAIN CONDUCTOR">
+      <data key="d0">TRAIN CONDUCTOR</data>
+    </node>
+    <node id="GAZELLE">
+      <data key="d0">GAZELLE</data>
+    </node>
+    <node id="KUDU POOTOSSER">
+      <data key="d0">KUDU POOTOSSER</data>
+    </node>
+    <node id="HOPPS">
+      <data key="d0">HOPPS</data>
+    </node>
+    <node id="DHARMA ARMADILLO">
+      <data key="d0">DHARMA ARMADILLO</data>
+    </node>
+    <node id="ORYX POOTOSSER">
+      <data key="d0">ORYX POOTOSSER</data>
+    </node>
+    <node id="LEOPARD">
+      <data key="d0">LEOPARD</data>
+    </node>
+    <node id="CLAWHAUSER">
+      <data key="d0">CLAWHAUSER</data>
+    </node>
+    <node id="OFFICER HIGGINS">
+      <data key="d0">OFFICER HIGGINS</data>
+    </node>
+    <node id="BOGO">
+      <data key="d0">BOGO</data>
+    </node>
+    <node id="TRUCK DRIVER">
+      <data key="d0">TRUCK DRIVER</data>
+    </node>
+    <node id="ELEPHANT">
+      <data key="d0">ELEPHANT</data>
+    </node>
+    <node id="NICK">
+      <data key="d0">NICK</data>
+    </node>
+    <node id="MOUSE CONSTRUCTION WORKER">
+      <data key="d0">MOUSE CONSTRUCTION WORKER</data>
+    </node>
+    <node id="FINNICK">
+      <data key="d0">FINNICK</data>
+    </node>
+    <node id="HIPPO CHILD">
+      <data key="d0">HIPPO CHILD</data>
+    </node>
+    <node id="ANGRY DRIVER">
+      <data key="d0">ANGRY DRIVER</data>
+    </node>
+    <node id="ANGRY GERBIL LADY">
+      <data key="d0">ANGRY GERBIL LADY</data>
+    </node>
+    <node id="MOOSE">
+      <data key="d0">MOOSE</data>
+    </node>
+    <node id="FRANTIC PIG">
+      <data key="d0">FRANTIC PIG</data>
+    </node>
+    <node id="MCHORN">
+      <data key="d0">MCHORN</data>
+    </node>
+    <node id="DUKE WEASELTON">
+      <data key="d0">DUKE WEASELTON</data>
+    </node>
+    <node id="FRU FRU SHREW">
+      <data key="d0">FRU FRU SHREW</data>
+    </node>
+    <node id="MRS. OTTERTON">
+      <data key="d0">MRS. OTTERTON</data>
+    </node>
+    <node id="YAX THE HIPPIE YAK">
+      <data key="d0">YAX THE HIPPIE YAK</data>
+    </node>
+    <node id="YAX">
+      <data key="d0">YAX</data>
+    </node>
+    <node id="NANGI">
+      <data key="d0">NANGI</data>
+    </node>
+    <node id="PRISCILLA">
+      <data key="d0">PRISCILLA</data>
+    </node>
+    <node id="FLASH">
+      <data key="d0">FLASH</data>
+    </node>
+    <node id="MR. BIG">
+      <data key="d0">MR. BIG</data>
+    </node>
+    <node id="MANCHAS">
+      <data key="d0">MANCHAS</data>
+    </node>
+    <node id="YOUNG NICK">
+      <data key="d0">YOUNG NICK</data>
+    </node>
+    <node id="MEAN KID ANIMAL">
+      <data key="d0">MEAN KID ANIMAL</data>
+    </node>
+    <node id="WOLF GUARD">
+      <data key="d0">WOLF GUARD</data>
+    </node>
+    <node id="GARY THE WOLF GUARD">
+      <data key="d0">GARY THE WOLF GUARD</data>
+    </node>
+    <node id="BADGER DOCTOR">
+      <data key="d0">BADGER DOCTOR</data>
+    </node>
+    <node id="ANOTHER REPORTER">
+      <data key="d0">ANOTHER REPORTER</data>
+    </node>
+    <node id="REPORTER 4">
+      <data key="d0">REPORTER 4</data>
+    </node>
+    <node id="REPORTER 2">
+      <data key="d0">REPORTER 2</data>
+    </node>
+    <node id="REPORTER 5">
+      <data key="d0">REPORTER 5</data>
+    </node>
+    <node id="PRESS">
+      <data key="d0">PRESS</data>
+    </node>
+    <node id="REPORTER 3">
+      <data key="d0">REPORTER 3</data>
+    </node>
+    <node id="REPORTER">
+      <data key="d0">REPORTER</data>
+    </node>
+    <node id="REPORTERS">
+      <data key="d0">REPORTERS</data>
+    </node>
+    <node id="REPORTER 6">
+      <data key="d0">REPORTER 6</data>
+    </node>
+    <node id="PIG">
+      <data key="d0">PIG</data>
+    </node>
+    <node id="MALE MOOSE NEWS ANCHOR">
+      <data key="d0">MALE MOOSE NEWS ANCHOR</data>
+    </node>
+    <node id="FEMALE BOBCAT NEWS ANCHOR">
+      <data key="d0">FEMALE BOBCAT NEWS ANCHOR</data>
+    </node>
+    <node id="ADULT GIDEON GREY">
+      <data key="d0">ADULT GIDEON GREY</data>
+    </node>
+    <node id="RABBIT MOM">
+      <data key="d0">RABBIT MOM</data>
+    </node>
+    <node id="RABBIT KID">
+      <data key="d0">RABBIT KID</data>
+    </node>
+    <node id="WOOLTER">
+      <data key="d0">WOOLTER</data>
+    </node>
+    <node id="DOUG">
+      <data key="d0">DOUG</data>
+    </node>
+    <node id="JESSE">
+      <data key="d0">JESSE</data>
+    </node>
+    <node id="PREY ANCHOR">
+      <data key="d0">PREY ANCHOR</data>
+    </node>
+    <node id="PRED ANCHOR">
+      <data key="d0">PRED ANCHOR</data>
+    </node>
+    <node id="PREDATOR ANCHOR">
+      <data key="d0">PREDATOR ANCHOR</data>
+    </node>
+    <edge source="BONNIE HOPPS" target="STU HOPPS">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="GIDEON GREY">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="HOPPS">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="ADULT GIDEON GREY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="COTTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="CROWD OF BUNNIES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="GARETH THE DOUBTING SHEEP BOY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="JUDY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="KUDU POOTOSSER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="MAJOR FRIEDKIN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="ORYX POOTOSSER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="RABBIT KID">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="RABBIT MOM">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="SHARLA">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="TRAIN CONDUCTOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="TRAVIS THE WOLF HENCHMAN KID">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BONNIE HOPPS" target="YOUNG JUDY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="GIDEON GREY">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="STU HOPPS" target="HOPPS">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="STU HOPPS" target="ADULT GIDEON GREY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="COTTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="CROWD OF BUNNIES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="GARETH THE DOUBTING SHEEP BOY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="JUDY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="KUDU POOTOSSER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="MAJOR FRIEDKIN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="ORYX POOTOSSER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="RABBIT KID">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="RABBIT MOM">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="SHARLA">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="TRAIN CONDUCTOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="TRAVIS THE WOLF HENCHMAN KID">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="STU HOPPS" target="YOUNG JUDY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="YOUNG JUDY" target="GARETH THE DOUBTING SHEEP BOY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="YOUNG JUDY" target="GIDEON GREY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="YOUNG JUDY" target="SHARLA">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="YOUNG JUDY" target="TRAVIS THE WOLF HENCHMAN KID">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GIDEON GREY" target="ADULT GIDEON GREY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GIDEON GREY" target="GARETH THE DOUBTING SHEEP BOY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GIDEON GREY" target="HOPPS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GIDEON GREY" target="MAJOR FRIEDKIN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GIDEON GREY" target="RABBIT KID">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GIDEON GREY" target="RABBIT MOM">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GIDEON GREY" target="SHARLA">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GIDEON GREY" target="TRAVIS THE WOLF HENCHMAN KID">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="TRAVIS THE WOLF HENCHMAN KID" target="GARETH THE DOUBTING SHEEP BOY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="TRAVIS THE WOLF HENCHMAN KID" target="SHARLA">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GARETH THE DOUBTING SHEEP BOY" target="SHARLA">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BELLWETHER" target="HOPPS">
+      <data key="d1">6</data>
+    </edge>
+    <edge source="BELLWETHER" target="BOGO">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="BELLWETHER" target="LIONHEART">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="BELLWETHER" target="NICK">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="BELLWETHER" target="ANOTHER REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BELLWETHER" target="CLAWHAUSER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BELLWETHER" target="JUDY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BELLWETHER" target="MEAN KID ANIMAL">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BELLWETHER" target="MRS. OTTERTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BELLWETHER" target="PRESS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BELLWETHER" target="REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BELLWETHER" target="REPORTER 2">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BELLWETHER" target="REPORTER 3">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BELLWETHER" target="REPORTER 4">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BELLWETHER" target="REPORTER 5">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BELLWETHER" target="REPORTER 6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BELLWETHER" target="REPORTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="JUDY" target="COTTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="JUDY" target="CROWD OF BUNNIES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="JUDY" target="HOPPS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="JUDY" target="LIONHEART">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="JUDY" target="NANGI">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="JUDY" target="TRAIN CONDUCTOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="JUDY" target="YAX">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="JUDY" target="YAX THE HIPPIE YAK">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="LIONHEART" target="HOPPS">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="LIONHEART" target="NICK">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="LIONHEART" target="BADGER DOCTOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="LIONHEART" target="PRED ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="LIONHEART" target="PREDATOR ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="LIONHEART" target="PREY ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="COTTON" target="CROWD OF BUNNIES">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="COTTON" target="TRAIN CONDUCTOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="CROWD OF BUNNIES" target="TRAIN CONDUCTOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GAZELLE" target="CLAWHAUSER">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="GAZELLE" target="BOGO">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GAZELLE" target="FEMALE BOBCAT NEWS ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GAZELLE" target="HOPPS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GAZELLE" target="LEOPARD">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GAZELLE" target="MALE MOOSE NEWS ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GAZELLE" target="MRS. OTTERTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="GAZELLE" target="PIG">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="KUDU POOTOSSER" target="HOPPS">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="KUDU POOTOSSER" target="ORYX POOTOSSER">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="KUDU POOTOSSER" target="DHARMA ARMADILLO">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="NICK">
+      <data key="d1">29</data>
+    </edge>
+    <edge source="HOPPS" target="BOGO">
+      <data key="d1">9</data>
+    </edge>
+    <edge source="HOPPS" target="CLAWHAUSER">
+      <data key="d1">7</data>
+    </edge>
+    <edge source="HOPPS" target="DUKE WEASELTON">
+      <data key="d1">4</data>
+    </edge>
+    <edge source="HOPPS" target="FINNICK">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="HOPPS" target="FLASH">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="HOPPS" target="FRU FRU SHREW">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="HOPPS" target="MR. BIG">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="HOPPS" target="MEAN KID ANIMAL">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="HOPPS" target="ORYX POOTOSSER">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="HOPPS" target="WOOLTER">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="HOPPS" target="YAX THE HIPPIE YAK">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="HOPPS" target="ADULT GIDEON GREY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="ANOTHER REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="BADGER DOCTOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="DHARMA ARMADILLO">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="DOUG">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="ELEPHANT">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="FRANTIC PIG">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="GARY THE WOLF GUARD">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="JESSE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="LEOPARD">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="MANCHAS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="MCHORN">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="MRS. OTTERTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="NANGI">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="OFFICER HIGGINS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="PRESS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="PRISCILLA">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="RABBIT KID">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="RABBIT MOM">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="REPORTER 2">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="REPORTER 3">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="REPORTER 4">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="REPORTER 5">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="REPORTER 6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="REPORTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="TRUCK DRIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="WOLF GUARD">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="YAX">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HOPPS" target="YOUNG NICK">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="DHARMA ARMADILLO" target="ORYX POOTOSSER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="LEOPARD" target="CLAWHAUSER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="LEOPARD" target="FEMALE BOBCAT NEWS ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="LEOPARD" target="MALE MOOSE NEWS ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="LEOPARD" target="MRS. OTTERTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="LEOPARD" target="PIG">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="CLAWHAUSER" target="BOGO">
+      <data key="d1">5</data>
+    </edge>
+    <edge source="CLAWHAUSER" target="MRS. OTTERTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="CLAWHAUSER" target="NICK">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="OFFICER HIGGINS" target="BOGO">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BOGO" target="NICK">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="BOGO" target="ANOTHER REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BOGO" target="MEAN KID ANIMAL">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BOGO" target="MRS. OTTERTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BOGO" target="PRESS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BOGO" target="REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BOGO" target="REPORTER 2">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BOGO" target="REPORTER 3">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BOGO" target="REPORTER 4">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BOGO" target="REPORTER 5">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BOGO" target="REPORTER 6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="BOGO" target="REPORTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ELEPHANT" target="NICK">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="FLASH">
+      <data key="d1">3</data>
+    </edge>
+    <edge source="NICK" target="FINNICK">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="NICK" target="MEAN KID ANIMAL">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="NICK" target="WOOLTER">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="NICK" target="ANOTHER REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="BADGER DOCTOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="DOUG">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="DUKE WEASELTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="FRU FRU SHREW">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="GARY THE WOLF GUARD">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="JESSE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="MANCHAS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="MOUSE CONSTRUCTION WORKER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="MR. BIG">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="PRESS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="PRISCILLA">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="REPORTER 2">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="REPORTER 3">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="REPORTER 4">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="REPORTER 5">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="REPORTER 6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="REPORTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="WOLF GUARD">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="YAX THE HIPPIE YAK">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="NICK" target="YOUNG NICK">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HIPPO CHILD" target="ANGRY DRIVER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HIPPO CHILD" target="ANGRY GERBIL LADY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="HIPPO CHILD" target="MOOSE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ANGRY DRIVER" target="ANGRY GERBIL LADY">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ANGRY DRIVER" target="MOOSE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ANGRY GERBIL LADY" target="MOOSE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MCHORN" target="DUKE WEASELTON">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="DUKE WEASELTON" target="FRU FRU SHREW">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="DUKE WEASELTON" target="MR. BIG">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="FRU FRU SHREW" target="MR. BIG">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="MRS. OTTERTON" target="FEMALE BOBCAT NEWS ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MRS. OTTERTON" target="MALE MOOSE NEWS ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MRS. OTTERTON" target="PIG">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="YAX THE HIPPIE YAK" target="NANGI">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="YAX THE HIPPIE YAK" target="YAX">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="YAX" target="NANGI">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="PRISCILLA" target="FLASH">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="YOUNG NICK" target="MEAN KID ANIMAL">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MEAN KID ANIMAL" target="ANOTHER REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MEAN KID ANIMAL" target="PRESS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MEAN KID ANIMAL" target="REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MEAN KID ANIMAL" target="REPORTER 2">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MEAN KID ANIMAL" target="REPORTER 3">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MEAN KID ANIMAL" target="REPORTER 4">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MEAN KID ANIMAL" target="REPORTER 5">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MEAN KID ANIMAL" target="REPORTER 6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MEAN KID ANIMAL" target="REPORTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="WOLF GUARD" target="GARY THE WOLF GUARD">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ANOTHER REPORTER" target="PRESS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ANOTHER REPORTER" target="REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ANOTHER REPORTER" target="REPORTER 2">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ANOTHER REPORTER" target="REPORTER 3">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ANOTHER REPORTER" target="REPORTER 4">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ANOTHER REPORTER" target="REPORTER 5">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ANOTHER REPORTER" target="REPORTER 6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ANOTHER REPORTER" target="REPORTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 4" target="PRESS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 4" target="REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 4" target="REPORTER 2">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 4" target="REPORTER 3">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 4" target="REPORTER 5">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 4" target="REPORTER 6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 4" target="REPORTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 2" target="PRESS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 2" target="REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 2" target="REPORTER 3">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 2" target="REPORTER 5">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 2" target="REPORTER 6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 2" target="REPORTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 5" target="PRESS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 5" target="REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 5" target="REPORTER 3">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 5" target="REPORTER 6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 5" target="REPORTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="PRESS" target="REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="PRESS" target="REPORTER 3">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="PRESS" target="REPORTER 6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="PRESS" target="REPORTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 3" target="REPORTER">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 3" target="REPORTER 6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER 3" target="REPORTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER" target="REPORTER 6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTER" target="REPORTERS">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="REPORTERS" target="REPORTER 6">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="PIG" target="FEMALE BOBCAT NEWS ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="PIG" target="MALE MOOSE NEWS ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="MALE MOOSE NEWS ANCHOR" target="FEMALE BOBCAT NEWS ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ADULT GIDEON GREY" target="RABBIT KID">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="ADULT GIDEON GREY" target="RABBIT MOM">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="RABBIT MOM" target="RABBIT KID">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="WOOLTER" target="DOUG">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="WOOLTER" target="JESSE">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="PREY ANCHOR" target="PRED ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="PREY ANCHOR" target="PREDATOR ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="PRED ANCHOR" target="PREDATOR ANCHOR">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>
